@@ -24,6 +24,7 @@ test
 <hr>
 
 [yahoo](http://tw.yahoo.com)
+[yahoo股市](https://tw.stock.yahoo.com/)
 
 [GooGle](https://www.google.com/maps/@25.0468863,121.5236489,15z?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D))
 
